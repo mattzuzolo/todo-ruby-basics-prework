@@ -12,7 +12,7 @@ end
 
 def argue
   
-  return argue
+  argue
   
 end
 
